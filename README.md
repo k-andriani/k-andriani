@@ -10,7 +10,7 @@
   - 💬 Ask me about games, martial arts and low-fi songs.
  ##
 ### 📕 Main project I'm currently working on:
-- **Transform your boring ad into a super-star post** - Machine Learning Text Classification
+- Transform Your Boring AD Into a Super-Star Post - Machine Learning Text Classification
 
 ##
 **Favorite Languages:**  
